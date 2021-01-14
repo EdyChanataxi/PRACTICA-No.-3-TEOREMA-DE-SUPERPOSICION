@@ -46,6 +46,12 @@ Tambien se utilizo tinkercad que nos sirvio como laboratorio virtual.
 
 6. CONCLUCION 
 
+- El teorema de superposicion nos facilita  el analisis de circuitos que contengas 2 o mas fuentes  ya sea de V o I ya que nos permite desconectar las demas fuentes y analizar en presencia de una sola.
+
+- Analitica y experimentalmente se observa un error que es minimo debido a que se ocupa un simulador virtual y no se lo arma fisicamente pero estos errores podiran ser aun mas exactos ya que depende de los decimales que se ocupe en el analisis analitico.
 
 7. BIBLIOGRAFIA
 
+Ayllón Fandiño, E. (1987). Fundamentos de la teoría de los circuitos eléctricos II
+
+Sadiku. (s.f.). Teoremas de circuitos. En Sadiku, Fundamentos de Circuitos Eléctricos
