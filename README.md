@@ -20,6 +20,12 @@
 
 2. MARCO TEORICO
 
+![.](IMAGENES/aa.png)
+
+![.](IMAGENES/aaa.png)
+
+![.](IMAGENES/aaaa.png)
+
 
 3. DIAGRAMAS
 
