@@ -11,7 +11,7 @@
  1.2. OBJETIVO ESPECIFICO
    
 
-- Resolver analiticamente un circuito con 2 fuentes de V aplicando el teorema de superposicion 
+- Resolver analiticamente un circuito con 2 fuentes de V aplicando el teorema de superposicion.
 
 - Identificar en el simulador con ayuda de un multimetro la corriente que pasa por la resistencia cuando se hace cortocircuito cada una de las fuentes de voltaje.
 
