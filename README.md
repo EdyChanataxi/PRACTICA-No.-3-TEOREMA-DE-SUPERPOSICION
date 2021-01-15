@@ -90,3 +90,5 @@ Ayllón Fandiño, E. (1987). Fundamentos de la teoría de los circuitos eléctri
 Sadiku. (s.f.). Teoremas de circuitos. En Sadiku, Fundamentos de Circuitos Eléctricos
 
 Floyd, T. (2007). PRINCIPIOS DE CIRCUITOS ELÉCTRICOS. (8va ed.). Mexico, Mexico: Pearson Education.
+
+![.](IMAGENES/tabla 2.png)
