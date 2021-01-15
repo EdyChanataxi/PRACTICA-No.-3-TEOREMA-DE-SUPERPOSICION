@@ -11,8 +11,7 @@
  1.2. OBJETIVO ESPECIFICO
    
 
-- Resolver analiticamente un circuito con 2 fuentes de V aplicando el teorema de superposicion.
-
+- Identificar la polaridad del voltaje y la direccion del la corriete en el circuito propuesto.
 - Identificar en el simulador con ayuda de un multimetro la corriente que pasa por la resistencia cuando se hace cortocircuito cada una de las fuentes de voltaje.
 
 - Analisar los resultados tanto analiticos como experimentales  obtenidos en el simulador virtual y  verificar si existe un error porcentual.
@@ -50,7 +49,29 @@ Tambien se utilizo tinkercad que nos sirvio como laboratorio virtual.
 
 5. EXPLICACION 
 
+1)  Abrimos el simulador de Tinkercad y seleccionamos nuevo circuito
+2) Elegimos los materiales a usar en la practica que constan de un Protoboard, una resistencia de 1k ohm, 2,2k ohm, 820 ohm y 470 ohm, 2 fuentes de voltaje de 20 y 12 V
+3)  Armamos el circuito que se nos da en la figura 4.1
+4)  Para aplicar el teorema de superposicion comenzamos retirando la fuente de 20V
+5) Con ayuda de un multimetro medimos el VA y la corriente Ix
+6) Anotamos los resultados obtenidos en la tabla 4.1
+7) Ahora devolvemos la fuente retirada anteriormente y retiramos la fuente de 12V
+8) Repetimos el paso 5 
+9) Anotamos los resultados en la tabla 4.2
 
+Tabla 4.1. Medición de voltaje aplicando superposición.
+
+![.](IMAGENES/tabla 1.png)
+
+![.](IMAGENES/tabla 2.png)
+
+5.2 Verifique el cumplimiento del Teorema de Superposición y compare los
+resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
+conclusiones.
+
+Como se puede observar en las anotaciones se llega a cumplir el teorema de superposicion al realizar la suma algebraica o en este caso la resta de las corrientes y voltajes obtenidos de cada fuente por separado, asi podemos analizar que dicho teorma nos permite analizar a los circuitos con 2 o mas fuentes de una manera mas sencilla.
+
+Con lo referente a los calculos del erro porcentual, sigue siendo minimo puesto que estamos en un laboratorio virtual, el error presente es mas por las aproximaciones de los decimales y de no ser asi hasta no se podria allar ni un error en la simulacion y la practica.
 
 6. CONCLUCION 
 
