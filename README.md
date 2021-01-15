@@ -30,6 +30,8 @@
 
 ![.](IMAGENES/aaaaa.png)
 
+![.](IMAGENES/diagramaS.png)
+
 Lo que haremos es pasar del diagrama electrico a al protoboard 
 
 
