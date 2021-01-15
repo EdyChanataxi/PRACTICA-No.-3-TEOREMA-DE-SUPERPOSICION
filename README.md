@@ -63,7 +63,7 @@ Tabla 4.1. Medición de voltaje aplicando superposición.
 
 ![.](IMAGENES/tabla 1.png)
 
-![.](IMAGENES/tabla 2.png
+![.](IMAGENES/tabla 2.png)
 
 5.2 Verifique el cumplimiento del Teorema de Superposición y compare los
 resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
