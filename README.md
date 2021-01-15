@@ -91,4 +91,3 @@ Sadiku. (s.f.). Teoremas de circuitos. En Sadiku, Fundamentos de Circuitos Eléc
 
 Floyd, T. (2007). PRINCIPIOS DE CIRCUITOS ELÉCTRICOS. (8va ed.). Mexico, Mexico: Pearson Education.
 
-![.](IMAGENES/tabla 2.png)
