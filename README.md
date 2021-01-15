@@ -29,8 +29,10 @@
 
 3. DIAGRAMAS
 
+![.](IMAGENES/aaaaa.png)
 
 Lo que haremos es pasar del diagrama electrico a al protoboard 
+
 
 4. LISTA DE COMPONENTES
 
@@ -61,3 +63,5 @@ Tambien se utilizo tinkercad que nos sirvio como laboratorio virtual.
 Ayllón Fandiño, E. (1987). Fundamentos de la teoría de los circuitos eléctricos II
 
 Sadiku. (s.f.). Teoremas de circuitos. En Sadiku, Fundamentos de Circuitos Eléctricos
+
+Floyd, T. (2007). PRINCIPIOS DE CIRCUITOS ELÉCTRICOS. (8va ed.). Mexico, Mexico: Pearson Education.
