@@ -63,11 +63,11 @@ Tambien se utilizo tinkercad que nos sirvio como laboratorio virtual.
 
 Tabla 4.1. Medición de voltaje aplicando superposición.
 
-![.](IMAGENES/tabla 1.png)
+![.](IMAGENES/tablaa.png)
 
 Tabla 4.2. Medición de corriente aplicando superposición.
 
-![.](IMAGENES/tabla 2.png)
+![.](IMAGENES/tabla a.png)
 
 5.2 Verifique el cumplimiento del Teorema de Superposición y compare los
 resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
