@@ -8,7 +8,7 @@
 
 - Determinar la usabilidad del teorema de superposicoin aplicado a un circuito con 2 fuentes de voltaje  y modelado en un simulador virtual.
 
- 1.2. OBJETIVO ESPECIFICO
+ 1.2. OBJETIVO ESPECIFICO  
    
 
 - Identificar la polaridad del voltaje y la direccion del la corriete en el circuito propuesto.
